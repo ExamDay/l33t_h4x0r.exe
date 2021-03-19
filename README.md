@@ -13,6 +13,6 @@ filter by the density of green boxes visible on a candidate's GitHub profile. Ne
 afford them a good measure of ability when hackers like myself are aware of the practice. 
 
 ## Message to Recruiters:
-Unfortunately, I am not free to open source my best projects.
+Unfortunately, I am not free to open-source my best projects.
 To recruiters looking for a reliable measure of my programming skill and experience, email me at
 gml@blackboxlabs.dev. I am happy to provide tours of my work that cannot be made accessible on GitHub.
