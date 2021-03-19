@@ -1,7 +1,7 @@
 "When a measure becomes a target, it ceases to be a good measure." - [Goodhart-Strathern](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 # l33t_h4x0r.exe
 <p align="center">
-  <img width="75%" height="75%" src="repo_images/WARPSPEED.gif#center">
+  <img width="90%" height="90%" src="repo_images/WARPSPEED.gif#center">
 </p>
 <br>
 l33t_h4xor.exe is a repository that exists for the sole purpose of flooding my GitHub contributions history
