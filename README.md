@@ -1,6 +1,6 @@
 "When a measure becomes a target, it ceases to be a good measure." - [Goodhart-Strathern](https://en.wikipedia.org/wiki/Goodhart%27s_law)
-![Homepage](repo_images/WARPSPEED.gif)
 # l33t_h4x0r.exe
+![Homepage](repo_images/WARPSPEED.gif)
 l33t_h4xor.exe is a repository that exists for the sole purpose of flooding my GitHub contributions history
 with many, MANY, delightful green boxes.
 
