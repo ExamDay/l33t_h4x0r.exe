@@ -1,4 +1,4 @@
-"When a measure becomes a target, it ceases to be a good measure." - [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+"When a measure becomes a target, it ceases to be a good measure." - [Goodhart-Strathern Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 # l33t_h4x0r.exe
 l33t_h4xor.exe is a repository that exists for the sole purpose of flooding my GitHub contributions history
 with many, MANY, delightful green boxes.
