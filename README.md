@@ -4,7 +4,7 @@ l33t_h4xor.exe is a repository that exists for the sole purpose of flooding my g
 with many, MANY, delightful green boxes.
 
 ## Why l33t_h4xor.exe?
-GitHub's "contribution history" section is easily and frequently spoofed. At the same time, recruiters
+GitHub's "contribution history" section is easily and frequently spoofed. This is because recruiters
 filter by the density of green boxes visible on a candidate's GitHub profile. Needless to say, this does not
 afford them a good measure of ability.
 
