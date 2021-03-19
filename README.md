@@ -11,4 +11,4 @@ afford them a good measure of ability when hackers like myself are aware of the 
 ## Message to Recruiters:
 I am not free to open source my best projects.
 To recruiters looking for a reliable measure of my programming skill and experience, email me at
-gml@blackboxlabs.dev for a tour of my work that cannot be accessed from GitHub.
+gml@blackboxlabs.dev for a tour of my work that cannot be made accessible on GitHub.
