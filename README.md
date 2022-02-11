@@ -10,9 +10,10 @@ with many, MANY, delightful green boxes.
 
 ## Why l33t_h4xor.exe?
 GitHub's contribution history section is easily and frequently spoofed. This is because recruiters
-filter by the density of green boxes visible on a candidate's GitHub profile. Needless to say, this ceases to
-afford them a good measure of ability and puts non-hackers at a disadvantage, especially when they are unaware
-of the practice. 
+filter by the density of green boxes visible on a candidate's GitHub profile and it is trivial for any hacker
+familiar with Git to establish their own commit history by ukase. Needless to say, this denies recruiters a
+convenient measure of ability and puts non-hackers at a disadvantage, especially when both parties
+are unaware of the practice. 
 
 ## Message to Recruiters:
 Unfortunately, I am not free to open-source my best projects so the number of green boxes on my github
