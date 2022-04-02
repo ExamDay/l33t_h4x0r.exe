@@ -1,8 +1,1 @@
-#include <stdio.h>
-
-int main()
-{
-	printf("Hello, world!\n");
-	
-	return 0;
-}
+f68b9962-b326-11ec-88ec-5fc1e44c527a
