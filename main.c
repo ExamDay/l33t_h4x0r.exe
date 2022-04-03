@@ -1,1 +1,9 @@
-2bb57864-b327-11ec-88ec-5fc1e44c527a
+#include <stdio.h>
+
+int main()
+{
+	printf("Hello, world!
+");
+	
+	return 0;
+}
