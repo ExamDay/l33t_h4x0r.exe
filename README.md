@@ -19,4 +19,4 @@ are unaware of the practice.
 Unfortunately, I am not free to open-source my best projects so the number of green boxes on my github
 does not reflect my ability.
 To recruiters looking for a reliable measure of my programming skill and experience, please email me at
-glafond@wisc.edu. I am happy to provide tours of my work that cannot be made accessible on GitHub.
+watch.closely.0@gmail.com. I am happy to provide tours of my work that cannot be made accessible on GitHub.
